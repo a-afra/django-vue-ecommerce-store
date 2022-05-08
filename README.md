@@ -14,7 +14,7 @@
 </p>
 Hi everyone!
 
-Boutique is an online clothing store that you can register to it, view products and buy.
+Boutique is an online clothing store that you can register to it, view and buy products.
 The purpose of this project for me, was to test my Django and Web Development skills.
 I use django for the backend and Django Rest Framework for the APIs.
 Authentication system is handled by Djoser.
